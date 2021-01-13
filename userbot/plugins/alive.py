@@ -32,20 +32,20 @@ async def amireallyalive(alive):
     if alive.reply_to_msg_id:
         reply_to_id = await alive.get_reply_message()
     if EXELON_IMG:
-        exelon_caption = f"__**✮ EXELON BAŞARIYLA ÇALIŞIYOR ✮**__\n\n"
+        exelon_caption = f"__**⚡ OLYMPUS BAŞARIYLA ÇALIŞIYOR ⚡**__\n\n"
         exelon_caption += f"**✧ Veri Tabanı :** `{check_sgnirts}`\n"
         exelon_caption += f"**✧ Telethon Sürümü :** `{version.__version__}\n`"
-        exelon_caption += f"**✧ ExelonUserBot Sürümü :** `{exelonversion}`\n"
+        exelon_caption += f"**✧ OlympusUserBot Sürümü :** `{olympusversion}`\n"
         exelon_caption += f"**✧ Python Sürümü :** `{python_version()}\n`"
         exelon_caption += f"**✧ Çalışma Süresi :** `{uptime}\n`"
         exelon_caption += f"**✧ Benim Ustam :** [{DEFAULTUSER}](tg://user?id={hmm})\n"
         await borg.send_file(alive.chat_id, EXELON_IMG, caption=exelon_caption, reply_to=reply_to_id)
         await alive.delete()
     else:
-        await edit_or_reply(alive, f"__**✮ EXELON BAŞARIYLA ÇALIŞIYOR ✮**__\n\n"
+        await edit_or_reply(alive, f"__**⚡ OLYMPUS BAŞARIYLA ÇALIŞIYOR ⚡**__\n\n"
                             f"**✧ Veri Tabanı :** `{check_sgnirts}`\n"
                             f"**✧ Telethon Sürümü :** `{version.__version__}\n`"
-                            f"**✧ ExelonUserBot Sürümü :** `{exelonversion}`\n"
+                            f"**✧ OlympusUserBot Sürümü :** `{olympusversion}`\n"
                             f"**✧ Python Sürümü :** `{python_version()}\n`"
                             f"**✧ Çalışma Süresi :** `{uptime}\n`"
                             f"**✧ Benim Ustam :** [{DEFAULTUSER}](tg://user?id={hmm})\n"
@@ -62,9 +62,9 @@ async def amireallyalive(alive):
     if alive.reply_to_msg_id:
         reply_to_id = await alive.get_reply_message()
     hmm = bot.uid
-    exelon_caption = f"__**ExelonUserBot Çalışıyor**__\n"
+    exelon_caption = f"__**OlympusUserBot Çalışıyor**__\n"
     exelon_caption += f"**  -Telethon Sürümü :** `{version.__version__}\n`"
-    exelon_caption += f"**  -ExelonUserBot Sürümü :** `{exelonversion}`\n"
+    exelon_caption += f"**  -OlympusUserBot Sürümü :** `{olympusversion}`\n"
     exelon_caption += f"**  -Python Sürümü :** `{python_version()}\n`"
     exelon_caption += f"**  -Benim ustam :** [{DEFAULTUSER}](tg://user?id={hmm})\n"
     results = await bot.inline_query(  # pylint:disable=E0602
@@ -132,6 +132,6 @@ CMD_HELP.update({"alive": "**PLUGİN İSMİ:** `alive`\
       \n**Kullanım ➥ ** botun durumu.\
       \n\n**📌Komut ➥ **`.ialive` :\
       \n**Kullanım ➥ ** Canlı Görünüm Alive\
-      \n\n**📌Komut ➥ ** `.exelon`\
-      \n**Kullanım ➥ **Rastgele exelon çıkartmaları"
+      \n\n**📌Komut ➥ ** `.olympus`\
+      \n**Kullanım ➥ **Rastgele Olympus çıkartmaları"
                  })
