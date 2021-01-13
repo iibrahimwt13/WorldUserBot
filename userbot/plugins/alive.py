@@ -13,7 +13,7 @@ from telethon import version
 from userbot import StartTime
 from platform import python_version
 from ..utils import admin_cmd, sudo_cmd, edit_or_reply
-from userbot import CMD_HELP, ALIVE_NAME, exelondef, exelonversion
+from userbot import ALIVE_NAME, CMD_HELP, exelondef
 from ..uniborgConfig import Config
 
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "exelon"
