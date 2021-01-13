@@ -1,7 +1,7 @@
 {
   "name": "OlympusUserBot",
   "description": "Userbot created by a ZeuS and custom fork by https://t.me/olympuss10 iletişim @olympuss10 destek için",
-  "logo": "https://resimyukle.xyz/i/VR5AKT",
+  "logo": "[url=https://resimyukle.xyz/i/VR5AKT][img]https://i.resimyukle.xyz/VR5AKT.jpg[/img][/url]",
   "keywords": [
     "telegram",
     "userbot",
@@ -79,7 +79,7 @@
     },
     "ALIVE_PIC": {
       "description": "Alive Komutunda Görükecek Medya (fotograf gif video)URL sini Giriniz",
-      "value": "https://resimyukle.xyz/i/VR5AKT",
+      "value": "[url=https://resimyukle.xyz/i/VR5AKT][img]https://i.resimyukle.xyz/VR5AKT.jpg[/img][/url]",
       "required": false
     },
     "AUTONAME": {
