@@ -42,10 +42,10 @@ for name in files:
         shortname = path1.stem
         load_module(shortname.replace(".py", ""))
 
-LOGS.info("Exelon çalışıyor! Herhangi bir sohbete .alive yazarak Test edin.")
+LOGS.info("Olympus çalışıyor! Herhangi bir sohbete .alive yazarak Test edin.")
 LOGS.info(
-    "Yardıma ihtiyacınız varsa, Destek grubumuza gelin t.me/ExelonSupport\n"
-    "Exelon Sürümü 2.7.2")
+    "Yardıma ihtiyacınız varsa, Destek grubumuza gelin t.me/olympuss10\n"
+    "Exelon Sürümü 1.0.1")
 
 if len(argv) not in (1, 3, 4):
     bot.disconnect()
