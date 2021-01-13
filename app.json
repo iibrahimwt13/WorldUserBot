@@ -1,7 +1,7 @@
 {
-  "name": "ExelonUserBot",
-  "description": "Userbot created by a SNAPDRAGON and custom fork by https://t.me/BristolMyers iletişim @ExelonSupport destek için",
-  "logo": "https://telegra.ph/file/f846d19602ef8ea3e9e64.jpg",
+  "name": "OlympusUserBot",
+  "description": "Userbot created by a ZeuS and custom fork by https://t.me/olympuss10 iletişim @olympuss10 destek için",
+  "logo": "https://resimyukle.xyz/i/VR5AKT",
   "keywords": [
     "telegram",
     "userbot",
@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/BristolMyers/ExelonUserBot",
+  "repository": "https://github.com/iibrahimwt13/WorldUserBot.git",
   "website": "#TODO",
   "success_url": "#TODO",
   "stack": "container",
@@ -79,11 +79,11 @@
     },
     "ALIVE_PIC": {
       "description": "Alive Komutunda Görükecek Medya (fotograf gif video)URL sini Giriniz",
-      "value": "https://telegra.ph/file/f846d19602ef8ea3e9e64.jpg",
+      "value": "https://resimyukle.xyz/i/VR5AKT",
       "required": false
     },
     "AUTONAME": {
-      "description": ".autoname komutu için",
+      "description": "toname komutu için",
       "value": "",
       "required": false
     },
