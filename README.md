@@ -23,7 +23,7 @@ APP ID ve API HASH'ı şuradan alın: [HERE](https://telegram.dog/OtoMyTelegramB
 [<a href="https://resimyukle.xyz/i/VR5AKT"><img src="https://i.resimyukle.xyz/VR5AKT.jpg" /></a>](https://heroku.com/deploy)
 # ~ZEUS~
 
-### Güncellemeler için [buraya](https://t.me/ExelonUserBot) tartışma ve hatalar için [buraya](https://t.me/ExelonSupport) katılın.
+### tartışma ve hatalar için [buraya](https://t.me/olympuss10) katılın.
 
 ### Normal Yol
 
