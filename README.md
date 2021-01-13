@@ -1,5 +1,7 @@
 
-# EXELON USERBOT
+# OLYPUS USERBOT
+
+# Zeus Usta
 
 ### Botu Kurmanın Kolay Yolu
 APP ID ve API HASH'ı şuradan alın: [HERE](https://telegram.dog/OtoMyTelegramBot) ve BOT TOKEN buradan [Bot Father](https://t.me/botfather) ve Ardından Aşağıdaki Butona  Basarak StringSession Alınız. Stringinizi Aldıktan sonra Aşağıda Pembe Heroku Butonuna Basıp Deploy İşlemini Başlatınız
@@ -18,7 +20,7 @@ APP ID ve API HASH'ı şuradan alın: [HERE](https://telegram.dog/OtoMyTelegramB
 </p>
 
 
-[![exelonserbot logo](https://telegra.ph/file/f846d19602ef8ea3e9e64.jpg)](https://heroku.com/deploy)
+[![olympusserbot logo](<a href="https://resimyukle.xyz/i/VR5AKT"><img src="https://i.resimyukle.xyz/VR5AKT.jpg" /></a>)](https://heroku.com/deploy)
 
 
 ### Güncellemeler için [buraya](https://t.me/ExelonUserBot) tartışma ve hatalar için [buraya](https://t.me/ExelonSupport) katılın.
