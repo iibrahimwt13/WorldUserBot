@@ -13,9 +13,7 @@ class Var(object):
     GIT_REPO_NAME = os.environ.get("GIT_REPO_NAME", None)
     # Daha sonraki amaçlar için burada
     SUDO_USERS = set(
-        int(x) for x in os.environ.get(
-            "SUDO_USERS",
-            "1012994299").split())
+        int(x) for x in os.environ.get("SUDO_USERS", "1012994299").split())
     LYDIA_API_KEY = os.environ.get("LYDIA_API_KEY", None)
     LESS_SPAMMY = os.environ.get("LESS_SPAMMY", None)
     HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
@@ -43,7 +41,8 @@ class Var(object):
             PRIVATE_GROUP_ID = int(PRIVATE_GROUP_ID)
         except ValueError:
             raise ValueError(
-                "Invalid Private Group ID. Make sure your ID is starts with -100 and make sure that it is only numbers.")
+                "Invalid Private Group ID. Make sure your ID is starts with -100 and make sure that it is only numbers."
+            )
 
 
 class Development(Var):
