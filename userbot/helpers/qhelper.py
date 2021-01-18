@@ -16,7 +16,6 @@ from telethon.tl import types, functions
 from fontTools.ttLib import TTFont
 import emoji
 import textwrap
-import urllib
 import logging
 import random
 import json
