@@ -1,5 +1,5 @@
 https://github.com/LonamiWebs/Telethon/archive/master.zip
-telethon >= 1.16.1
+telethon >= 1.19.0
 aiofiles
 aiohttp
 aria2p
