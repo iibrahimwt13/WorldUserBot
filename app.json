@@ -112,7 +112,7 @@
     "plan": "heroku-postgresql"
   }],
   "buildpacks": [{
-    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    "url": "https://devcenter.heroku.com/articles/buildpacks#detection-failure"
   }, {
     "url": "heroku/python"
   },{
