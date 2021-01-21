@@ -1,1 +1,1 @@
-exelonbot: python -m WorldUserBot
+olympusbot: python -m WorldUserBot
