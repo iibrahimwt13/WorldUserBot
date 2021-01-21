@@ -6,7 +6,7 @@
 ### Botu Kurmanın Kolay Yolu
 APP ID ve API HASH'ı şuradan alın: [HERE](https://telegram.dog/OtoMyTelegramBot) ve BOT TOKEN buradan [Bot Father](https://t.me/botfather) ve Ardından Aşağıdaki Butona  Basarak StringSession Alınız. Stringinizi Aldıktan sonra Aşağıda Pembe Heroku Butonuna Basıp Deploy İşlemini Başlatınız
 
-[![Get string session](https://repl.it/badge/github/brsitolmyers/exelonstringalici)](https://exelonstringalici.bristolmyers.repl.run/)
+<a href="https://repl.it/@iibrahimwt13/StringAl-c-#main.py"><img src="https://img.shields.io/badge/run-string__session.py-blue?style=for-the-badge&logo=repl.it" alt="generate_string" /></a>
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 <p align="center">
