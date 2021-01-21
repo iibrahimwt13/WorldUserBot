@@ -45,7 +45,7 @@ for name in files:
 LOGS.info("Olympus çalışıyor! Herhangi bir sohbete .alive yazarak Test edin.")
 LOGS.info(
     "Yardıma ihtiyacınız varsa, Destek grubumuza gelin t.me/olympuss10\n"
-    "Exelon Sürümü 1.0.1")
+    "Olympus Sürümü 1.0.1")
 
 if len(argv) not in (1, 3, 4):
     bot.disconnect()
