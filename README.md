@@ -8,7 +8,7 @@ APP ID ve API HASH'ı şuradan alın: [HERE](https://telegram.dog/OtoMyTelegramB
 
 <a href="https://repl.it/@iibrahimwt13/StringAl-c-#main.py"><img src="https://img.shields.io/badge/run-string__session.py-blue?style=for-the-badge&logo=repl.it" alt="generate_string" /></a>
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)(https://git.heroku.com/yuzmehavuzu.git)
 <p align="center">
   <a href="https://github.com/BristolMyers/ExelonUserBot/fork">
     <img src="https://img.shields.io/github/forks/BristolMyers/ExelonUserBot?label=Fork&style=social">
