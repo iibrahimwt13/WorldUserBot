@@ -12,7 +12,6 @@
   "repository": "https://github.com/iibrahimwt13/WorldUserBot",
   "website": "#TODO",
   "success_url": "#TODO",
-  "stack": "container",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
